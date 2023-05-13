@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-with-html-and-css-XpE893yX8X)
-- Live Site URL: [Add live site URL here](https://thiago87dev.github.io/Profile-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-with-html-and-css-XpE893yX8X](https://www.frontendmentor.io/solutions/profile-card-component-with-html-and-css-XpE893yX8X)
+- Live Site URL: [https://thiago87dev.github.io/Profile-card-component/](https://thiago87dev.github.io/Profile-card-component/)
 
 ## My process
 

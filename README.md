@@ -39,6 +39,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- GitHub - [Thiago Alves](https://github.com/Thiago87dev)
+- Linkedin - [Thiago Alves](https://www.linkedin.com/in/thiago-alves-010915274/)
+- GitHub - [Thiago87dev](https://github.com/Thiago87dev)
 - Frontend Mentor - [@MrThiago87](https://www.frontendmentor.io/profile/MrThiago87)
 - Instagram - [@thiagopaulista87](https://www.instagram.com/thiagopaulista87/)
